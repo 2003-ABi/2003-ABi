@@ -9,8 +9,6 @@
 
 
 
- <div class="tenor-gif-embed" data-postid="818238279004381316" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/coding-gif-818238279004381316">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 
 
 
