@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  
+  ![GIF](https://github.com/2003-ABi/2003-ABi/assets/88971266/52af38f4-e519-4a59-991f-bdf31d4e556f) 
 </div>
 
 
