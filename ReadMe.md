@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  ![ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7](https://github.com/2003-ABi/2003-ABi/assets/88971266/afcb18d2-3f4e-4832-b631-62cdec4f9518)
+  
 </div>
 
 
